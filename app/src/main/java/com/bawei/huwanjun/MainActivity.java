@@ -10,6 +10,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+   //法人认购人跟人个人认购
     private ViewPager pager;
     private List<Fragment> flist=new ArrayList<>();
 
